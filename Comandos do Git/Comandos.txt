@@ -1,0 +1,3 @@
+Comandos do Git
+-git clone = trás o projeto do Github para sua máquina.
+-git status = verifica o que tem de novo ou modificado.
