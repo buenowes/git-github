@@ -1,3 +1,11 @@
 Comandos do Git
+-git init = criar um novo repositorio
 -git clone = trás o projeto do Github para sua máquina.
--git status = verifica o que tem de novo ou modificado.
+-git status = verifica o que tem de novo ou modificado. 
+-git add arquivo.txt = adicionar arquivo especifico
+-git add . = adiciona todos os arquivos na máquina
+-git commit -m "descrição"= famoso commitar
+-git push origin main = empurra para o Github
+-git rm meu_arquivo.txt = remove arquivo especifico
+-git rm -r diretorio = remove diretorio
+
