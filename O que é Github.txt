@@ -1,0 +1,9 @@
+O GitHub é uma rede social de desenvolvedores. 
+A primeira parte do nome, “Git”, é por causa da utilização do sistema de controle de versão 
+e a segunda parte, “Hub”, tem a ver com a conexão entre profissionais de programação de qualquer lugar do mundo.
+A Parte muito interessante do Github é que podemos trazer um projeto direto para nossa maquina atravez do clone.
+
+Link do Github: https://github.com/
+
+Deixar o Github público é interessante pois a vários recrutadores que utilizam a plataforma
+e ficam de olho no seus códigos.

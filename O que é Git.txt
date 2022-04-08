@@ -1,0 +1,6 @@
+O Git é um dos sistemas de controle de versão 
+mais utilizados no mundo de desenvolvimento de software.
+Criado por Linus Torvalds, ele mesmo o criador do Linux.
+
+Link para Download:
+https://git-scm.com/downloads
